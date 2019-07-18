@@ -8,6 +8,7 @@ public class firstscriptforjenkins {
 	public void printline() {
 		
 		System.out.println("I am awesome!!!!");
+		System.out.println("And I know it !!!");
 	}
 
 }
